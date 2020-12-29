@@ -1,1 +1,2 @@
 checking for rebase
+checking for revert commits
